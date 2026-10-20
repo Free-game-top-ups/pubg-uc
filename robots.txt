@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://free-game-top-ups.github.io/pubg-uc/sitemap.xml
